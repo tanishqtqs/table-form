@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: #009879;
+    color: #fff;
+    padding: 10px;
+    margin-top: 0px;
+}
+
+form {
+    width: 300px;
+    margin: 0 auto;
+    text-align: left;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+label, input, textarea {
+    display: block;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #009879;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+#response {
+    margin: 20px;
+    color: green;
+}
+
+table {
+    margin: 0 auto;
+    font-size: 0.9 em;
+    min-width: 400px;
+}
+
+table thead tr{
+    background-color: #009879;
+    color: #fff;
+    text-align: left;
+    font-weight: bold;
+}
+
+table tbody{
+    text-align: left;
+    padding: 12px;
+}
+
+table th {
+    padding: 12px;
+}
